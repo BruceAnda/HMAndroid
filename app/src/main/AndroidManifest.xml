@@ -3,19 +3,32 @@
     package="zhaoliang.com.hmandroid">
 
     <application
+        android:name=".app.App"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".activity.day01.Day01Activity" />
+        <activity android:name=".activity.day02.Day02Activity" />
+        <activity android:name=".activity.day03.Day03Activity" />
+        <activity android:name=".activity.day04.Day04Activity" />
+        <activity android:name=".activity.day05.Day05Activity" />
+        <activity android:name=".activity.day06.Day06Activity" />
+        <activity android:name=".activity.day07.Day07Activity" />
+        <activity android:name=".activity.day08.Day08Activity" />
+        <activity android:name=".activity.day09.Day09Activity" />
+        <activity android:name=".activity.day10.Day10Activity" />
+        <activity android:name=".activity.day11.Day11Activity" />
+        <activity android:name=".activity.day12.Day12Activity" />
     </application>
 
 </manifest>

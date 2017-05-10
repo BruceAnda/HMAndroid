@@ -1,3 +1,50 @@
 <resources>
     <string name="app_name">HMAndroid</string>
+
+    <string name="day01">快速入门</string>
+    <string name="day02">数据存储和界面展示上</string>
+    <string name="day03">数据存储和界面展示下</string>
+    <string name="day04">网络编程上</string>
+    <string name="day05">网络编程下</string>
+    <string name="day06">界面跳转和数据传递</string>
+    <string name="day07">广播和服务上</string>
+    <string name="day08">广播和服务下</string>
+    <string name="day09">多媒体编程</string>
+    <string name="day10">内容提供者</string>
+    <string name="day11">新特性和知识点回顾</string>
+    <string name="day12">总结</string>
+
+    <array name="Main">
+        <item>Day01:快速入门</item>
+        <item>Day02:数据存储和界面展示上</item>
+        <item>Day03:数据存储和界面展示下</item>
+        <item>Day04:网络编程上</item>
+        <item>Day05:网络编程下</item>
+        <item>Day06:界面跳转和数据传递</item>
+        <item>Day07:广播和服务上</item>
+        <item>Day08:广播和服务下</item>
+        <item>Day09:多媒体编程</item>
+        <item>Day10:内容提供者</item>
+        <item>Day11:新特性和知识点回顾</item>
+        <item>Day12:总结</item>
+    </array>
+
+    <array name="Day01">
+        <item>HelloWorld</item>
+        <item>PhoneDialer</item>
+        <item>SmsSender</item>
+        <item>ClickEvent</item>
+    </array>
+
+    <array name="Day02"></array>
+    <array name="Day03"></array>
+    <array name="Day04"></array>
+    <array name="Day05"></array>
+    <array name="Day06"></array>
+    <array name="Day07"></array>
+    <array name="Day08"></array>
+    <array name="Day09"></array>
+    <array name="Day10"></array>
+    <array name="Day11"></array>
+    <array name="Day12"></array>
 </resources>
