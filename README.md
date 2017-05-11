@@ -1,6 +1,7 @@
 # Android基础代码
 
 ### 截图
+![截图](https://github.com/BruceAnda/HMAndroid/blob/master/screenshot/main/pic/pic.png)
 
 ### 内容
 | 内容 | 详细内容 | 完成情况 |
