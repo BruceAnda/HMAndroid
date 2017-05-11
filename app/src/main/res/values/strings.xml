@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">HMAndroid</string>
 
+    <!-- 章节内容标题 -->
     <string name="day01">快速入门</string>
     <string name="day02">数据存储和界面展示上</string>
     <string name="day03">数据存储和界面展示下</string>
@@ -14,6 +15,23 @@
     <string name="day11">新特性和知识点回顾</string>
     <string name="day12">总结</string>
 
+    <!-- day01标题 -->
+    <string name="day01_title1">HelloWorld</string>
+    <string name="day01_title2">PhoneDialer</string>
+    <string name="day01_title3">SmsSender</string>
+    <string name="day01_title4">ClickEvent</string>
+    <!-- day01字符串 -->
+    <string name="day01_values1">HelloWorld</string>
+    <string name="day01_values2">请输入电话号码</string>
+    <string name="day01_values3">拨打电话</string>
+    <string name="day01_values4">请输入短信内容</string>
+    <string name="day01_values5">发送</string>
+    <string name="day01_values6">第一种点击事件的写法</string>
+    <string name="day01_values7">第二种点击事件的写法</string>
+    <string name="day01_values8">第三种点击事件的写法</string>
+    <string name="day01_values9">第四种点击事件的写法</string>
+
+    <!-- 主界面列表 -->
     <array name="Main">
         <item>Day01:快速入门</item>
         <item>Day02:数据存储和界面展示上</item>
@@ -29,6 +47,7 @@
         <item>Day12:总结</item>
     </array>
 
+    <!-- day01内容列表 -->
     <array name="Day01">
         <item>HelloWorld</item>
         <item>PhoneDialer</item>
@@ -36,15 +55,26 @@
         <item>ClickEvent</item>
     </array>
 
+    <!-- day02内容列表 -->
     <array name="Day02"></array>
+    <!-- day03内容列表 -->
     <array name="Day03"></array>
+    <!-- day04内容列表 -->
     <array name="Day04"></array>
+    <!-- day05内容列表 -->
     <array name="Day05"></array>
+    <!-- day06内容列表 -->
     <array name="Day06"></array>
+    <!-- day07内容列表 -->
     <array name="Day07"></array>
+    <!-- day08内容列表 -->
     <array name="Day08"></array>
+    <!-- day09内容列表 -->
     <array name="Day09"></array>
+    <!-- day10内容列表 -->
     <array name="Day10"></array>
+    <!-- day11内容列表 -->
     <array name="Day11"></array>
+    <!-- day12内容列表 -->
     <array name="Day12"></array>
 </resources>

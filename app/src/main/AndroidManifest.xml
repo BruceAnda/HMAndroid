@@ -2,6 +2,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="zhaoliang.com.hmandroid">
 
+    <!-- 拨打电话的权限 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <!-- 发送短信的权限 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
     <application
         android:name=".app.App"
         android:allowBackup="true"
@@ -29,6 +34,10 @@
         <activity android:name=".activity.day10.Day10Activity" />
         <activity android:name=".activity.day11.Day11Activity" />
         <activity android:name=".activity.day12.Day12Activity" />
+        <activity android:name=".activity.day01.helloworld.HelloWorldActivity" />
+        <activity android:name=".activity.day01.phonedialer.PhoneDialerActivity" />
+        <activity android:name=".activity.day01.smssender.SmsSenderActivity" />
+        <activity android:name=".activity.day01.clickevent.ClickEventActivity"></activity>
     </application>
 
 </manifest>
