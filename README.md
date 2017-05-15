@@ -7,7 +7,7 @@
 | 内容 | 详细内容 | 完成情况 |
 |-----|-----|-----|
 | 快速入门 | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day01) | 已完成 |
-| 数据存储和界面展示上 | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day02) | 未完成 |
+| 数据存储和界面展示上 | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day02) | 已完成 |
 | 数据存储和界面展示下 | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day03) | 未完成 |
 | 网络编程上 | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day04) | 未完成 |
 | 网络编程下 | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day05) | 未完成 |
