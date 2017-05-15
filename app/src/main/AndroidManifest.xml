@@ -6,6 +6,9 @@
     <uses-permission android:name="android.permission.CALL_PHONE" />
     <!-- 发送短信的权限 -->
     <uses-permission android:name="android.permission.SEND_SMS" />
+    <!-- 读写SD卡的权限 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
         android:name=".app.App"
@@ -37,7 +40,24 @@
         <activity android:name=".activity.day01.helloworld.HelloWorldActivity" />
         <activity android:name=".activity.day01.phonedialer.PhoneDialerActivity" />
         <activity android:name=".activity.day01.smssender.SmsSenderActivity" />
-        <activity android:name=".activity.day01.clickevent.ClickEventActivity"></activity>
+        <activity android:name=".activity.day01.clickevent.ClickEventActivity" />
+        <activity android:name=".activity.day02.commonlayout.CommonLayoutActivity" />
+        <activity android:name=".activity.day02.logcat.LogcatActivity" />
+        <activity android:name=".activity.day02.sdstateandsize.SDStateAndSizeActivity" />
+        <activity android:name=".activity.day02.storageoption.StorageOptionActivity" />
+        <activity android:name=".activity.day02.operatorxml.OperatorXMLActivity" />
+        <activity android:name=".activity.day02.preference.PreferenceActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.LinearLayoutDemoOneActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.LinearLayoutDemoTwoActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.RelativeLayoutDemoOneActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.RelativeLayoutDemoTwoActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.FrameLayoutDemoActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.TableLayoutDemoActivity" />
+        <activity android:name=".activity.day02.commonlayout.layout.AbsolueLayoutDemoActivity" />
+        <activity android:name=".activity.day02.storageoption.storage.BaseStorageActivity" />
+        <activity android:name=".activity.day02.storageoption.storage.InternalStorageActivity" />
+        <activity android:name=".activity.day02.storageoption.storage.ExternalStorageActivity" />
+        <activity android:name=".activity.day02.storageoption.storage.SharedPerferencesActivity"></activity>
     </application>
 
 </manifest>

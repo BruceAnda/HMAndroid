@@ -1,20 +1,13 @@
 <resources>
     <string name="app_name">HMAndroid</string>
 
-    <!-- 章节内容标题 -->
-    <string name="day01">快速入门</string>
-    <string name="day02">数据存储和界面展示上</string>
-    <string name="day03">数据存储和界面展示下</string>
-    <string name="day04">网络编程上</string>
-    <string name="day05">网络编程下</string>
-    <string name="day06">界面跳转和数据传递</string>
-    <string name="day07">广播和服务上</string>
-    <string name="day08">广播和服务下</string>
-    <string name="day09">多媒体编程</string>
-    <string name="day10">内容提供者</string>
-    <string name="day11">新特性和知识点回顾</string>
-    <string name="day12">总结</string>
-
+    <!-- day01内容列表 -->
+    <array name="Day01">
+        <item>HelloWorld</item>
+        <item>PhoneDialer</item>
+        <item>SmsSender</item>
+        <item>ClickEvent</item>
+    </array>
     <!-- day01标题 -->
     <string name="day01_title1">HelloWorld</string>
     <string name="day01_title2">PhoneDialer</string>
@@ -33,7 +26,7 @@
 
     <!-- 主界面列表 -->
     <array name="Main">
-        <item>Day01:快速入门</item>
+        <item>Day01:快速入门(已完成)</item>
         <item>Day02:数据存储和界面展示上</item>
         <item>Day03:数据存储和界面展示下</item>
         <item>Day04:网络编程上</item>
@@ -46,35 +39,140 @@
         <item>Day11:新特性和知识点回顾</item>
         <item>Day12:总结</item>
     </array>
-
-    <!-- day01内容列表 -->
-    <array name="Day01">
-        <item>HelloWorld</item>
-        <item>PhoneDialer</item>
-        <item>SmsSender</item>
-        <item>ClickEvent</item>
-    </array>
+    <!-- 章节内容标题 -->
+    <string name="day01">快速入门</string>
+    <string name="day02">数据存储和界面展示上</string>
+    <string name="day03">数据存储和界面展示下</string>
+    <string name="day04">网络编程上</string>
+    <string name="day05">网络编程下</string>
+    <string name="day06">界面跳转和数据传递</string>
+    <string name="day07">广播和服务上</string>
+    <string name="day08">广播和服务下</string>
+    <string name="day09">多媒体编程</string>
+    <string name="day10">内容提供者</string>
+    <string name="day11">新特性和知识点回顾</string>
+    <string name="day12">总结</string>
 
     <!-- day02内容列表 -->
-    <array name="Day02"></array>
+    <array name="Day02">
+        <item>CommonLayout</item>
+        <item>Logcat</item>
+        <item>SDStateAndSize</item>
+        <item>StorageOption</item>
+        <item>OperatorXML</item>
+        <item>Preference</item>
+    </array>
+    <!-- day02标题 -->
+    <string name="day02_title1">CommonLayout</string>
+    <string name="day02_title2">Logcat</string>
+    <string name="day02_title3">SDStateAndSize</string>
+    <string name="day02_title4">StorageOption</string>
+    <string name="day02_title5">OperatorXML</string>
+    <string name="day02_title6">Preference</string>
+
+    <!-- day02字符串 -->
+    <string name="day02_values1">LinearLayoutDemoOne</string>
+    <string name="day02_values2">LinearLayoutDemoTwo</string>
+    <string name="day02_values3">RelativeLayoutDemoOne</string>
+    <string name="day02_values4">RelativeLayoutDemoTwo</string>
+    <string name="day02_values5">FrameLayoutDemo</string>
+    <string name="day02_values6">TableLayoutDemo</string>
+    <string name="day02_values7">AbsolueLayoutDemo</string>
+    <string name="day02_values8">0.0</string>
+    <string name="day02_values9">MC</string>
+    <string name="day02_values10">M+</string>
+    <string name="day02_values11">M-</string>
+    <string name="day02_values12">MR</string>
+    <string name="day02_values13">C</string>
+    <string name="day02_values14">+/-</string>
+    <string name="day02_values15">/</string>
+    <string name="day02_values16">*</string>
+    <string name="day02_values17">7</string>
+    <string name="day02_values18">8</string>
+    <string name="day02_values19">9</string>
+    <string name="day02_values20">-</string>
+    <string name="day02_values21">4</string>
+    <string name="day02_values22">5</string>
+    <string name="day02_values23">6</string>
+    <string name="day02_values24">+</string>
+    <string name="day02_values25">1</string>
+    <string name="day02_values26">2</string>
+    <string name="day02_values27">3</string>
+    <string name="day02_values28">0</string>
+    <string name="day02_values29">.</string>
+    <string name="day02_values30">=</string>
+    <string name="day02_values31">Center</string>
+    <string name="day02_values32">above</string>
+    <string name="day02_values33">below</string>
+    <string name="day02_values34">left</string>
+    <string name="day02_values35">leftabove</string>
+    <string name="day02_values36">leftbelow</string>
+    <string name="day02_values37">right</string>
+    <string name="day02_values38">rightabove</string>
+    <string name="day02_values39">rightbelow</string>
+    <string name="day02_values40">姓名</string>
+    <string name="day02_values41">性别</string>
+    <string name="day02_values42">住址</string>
+    <string name="day02_values43">张三</string>
+    <string name="day02_values44">男</string>
+    <string name="day02_values45">北京</string>
+    <string name="day02_values46">李四</string>
+    <string name="day02_values47">男</string>
+    <string name="day02_values48">北京</string>
+    <string name="day02_values49">王五</string>
+    <string name="day02_values50">男</string>
+    <string name="day02_values51">北京</string>
+    <string name="day02_values52">绝对布局</string>
+    <string name="day02_values53">Log的日志等级:\n 1.Verbose \n 2.Debug \n 3.Info \n 4.Warn \n 5.Error</string>
+    <string name="day02_values54">内部存储</string>
+    <string name="day02_values55">外部存储</string>
+    <string name="day02_values56">SharedPreferences</string>
+    <string name="day02_values57">username</string>
+    <string name="day02_values58">password</string>
+    <string name="day02_values59">记住账号</string>
+    <string name="day02_values60">登录</string>
+    <string name="day02_values61">Write</string>
+    <string name="day02_values62">Read</string>
+
+
     <!-- day03内容列表 -->
+    <!-- day03标题 -->
+    <!-- day03字符串 -->
     <array name="Day03"></array>
     <!-- day04内容列表 -->
+    <!-- day04标题 -->
+    <!-- day04字符串 -->
     <array name="Day04"></array>
     <!-- day05内容列表 -->
+    <!-- day05标题 -->
+    <!-- day05字符串 -->
     <array name="Day05"></array>
     <!-- day06内容列表 -->
+    <!-- day06标题 -->
+    <!-- day06字符串 -->
     <array name="Day06"></array>
     <!-- day07内容列表 -->
+    <!-- day07标题 -->
+    <!-- day07字符串 -->
     <array name="Day07"></array>
     <!-- day08内容列表 -->
+    <!-- day08标题 -->
+    <!-- day08字符串 -->
     <array name="Day08"></array>
     <!-- day09内容列表 -->
+    <!-- day09标题 -->
+    <!-- day09字符串 -->
     <array name="Day09"></array>
     <!-- day10内容列表 -->
+    <!-- day10标题 -->
+    <!-- day10字符串 -->
     <array name="Day10"></array>
     <!-- day11内容列表 -->
+    <!-- day11标题 -->
+    <!-- day11字符串 -->
     <array name="Day11"></array>
     <!-- day12内容列表 -->
+    <!-- day12标题 -->
+    <!-- day12字符串 -->
     <array name="Day12"></array>
 </resources>
