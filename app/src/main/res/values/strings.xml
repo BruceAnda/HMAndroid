@@ -27,17 +27,17 @@
     <!-- 主界面列表 -->
     <array name="Main">
         <item>Day01:快速入门(已完成)</item>
-        <item>Day02:数据存储和界面展示上</item>
-        <item>Day03:数据存储和界面展示下</item>
-        <item>Day04:网络编程上</item>
-        <item>Day05:网络编程下</item>
-        <item>Day06:界面跳转和数据传递</item>
-        <item>Day07:广播和服务上</item>
-        <item>Day08:广播和服务下</item>
-        <item>Day09:多媒体编程</item>
-        <item>Day10:内容提供者</item>
-        <item>Day11:新特性和知识点回顾</item>
-        <item>Day12:总结</item>
+        <item>Day02:数据存储和界面展示上(已完成)</item>
+        <item>Day03:数据存储和界面展示下(已完成)</item>
+        <item>Day04:网络编程上(已完成)</item>
+        <item>Day05:网络编程下(已完成)</item>
+        <item>Day06:界面跳转和数据传递(已完成)</item>
+        <item>Day07:广播和服务上(已完成)</item>
+        <item>Day08:广播和服务下(已完成)</item>
+        <item>Day09:多媒体编程(已完成)</item>
+        <item>Day10:内容提供者(已完成)</item>
+        <item>Day11:新特性和知识点回顾(已完成)</item>
+        <item>Day12:总结(已完成)</item>
     </array>
     <!-- 章节内容标题 -->
     <string name="day01">快速入门</string>
