@@ -1,6 +1,7 @@
 # StorageOption
 
 ### 截图
+![截图](https://github.com/BruceAnda/HMAndroid/blob/master/screenshot/day02/pic/pic12.png)
 
 ### 内容
 | 内容 | 详细内容 | 完成情况 |
