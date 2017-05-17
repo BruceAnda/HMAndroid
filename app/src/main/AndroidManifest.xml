@@ -57,7 +57,11 @@
         <activity android:name=".activity.day02.storageoption.storage.BaseStorageActivity" />
         <activity android:name=".activity.day02.storageoption.storage.InternalStorageActivity" />
         <activity android:name=".activity.day02.storageoption.storage.ExternalStorageActivity" />
-        <activity android:name=".activity.day02.storageoption.storage.SharedPerferencesActivity"></activity>
+        <activity android:name=".activity.day02.storageoption.storage.SharedPerferencesActivity" />
+        <activity android:name=".activity.day03.junit.JunitActivity" />
+        <activity android:name=".activity.day03.sqlite.SqliteActivity" />
+        <activity android:name=".activity.day03.listview.ListViewActivity" />
+        <activity android:name=".activity.day03.dialog.DialogActivity"></activity>
     </application>
 
 </manifest>

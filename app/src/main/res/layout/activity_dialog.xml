@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zhaoliang.com.hmandroid.activity.day03.dialog.DialogActivity">
+
+    <Button
+        android:id="@+id/btn_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="dialog"
+        android:text="@string/day03_values7" />
+
+    <Button
+        android:id="@+id/btn_single_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="dialog"
+        android:text="@string/day03_values8" />
+
+    <Button
+        android:id="@+id/btn_mutiple_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="dialog"
+        android:text="@string/day03_values9" />
+</LinearLayout>

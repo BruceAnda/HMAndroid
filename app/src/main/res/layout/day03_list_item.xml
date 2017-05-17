@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/day03_iv_head"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:src="@mipmap/head" />
+
+    <TextView
+        android:id="@+id/day03_tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/day03_values6"
+        android:textSize="16sp" />
+</LinearLayout>

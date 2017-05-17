@@ -134,11 +134,36 @@
     <string name="day02_values61">Write</string>
     <string name="day02_values62">Read</string>
 
-
     <!-- day03内容列表 -->
+    <array name="Day03">
+        <item>Junit</item>
+        <item>Sqlite</item>
+        <item>ListView</item>
+        <item>Dialog</item>
+    </array>
     <!-- day03标题 -->
+    <string name="day03_title1">Junit</string>
+    <string name="day03_title2">Sqlite</string>
+    <string name="day03_title3">ListView</string>
+    <string name="day03_title4">Dialog</string>
     <!-- day03字符串 -->
-    <array name="Day03"></array>
+    <string name="day03_values1">Junit的使用</string>
+    <string name="day03_values2">使用Sqlite数据库</string>
+    <string name="day03_values3">ArrayAdapter</string>
+    <string name="day03_values4">SimpleAdapter</string>
+    <string name="day03_values5">CustomAdapter</string>
+    <string name="day03_values6">内容</string>
+    <string name="day03_values7">对话框</string>
+    <string name="day03_values8">单选对话框</string>
+    <string name="day03_values9">多选对话框</string>
+    <!-- day03数组 -->
+    <array name="Names">
+        <item>张三</item>
+        <item>李四</item>
+        <item>王五</item>
+    </array>
+
+
     <!-- day04内容列表 -->
     <!-- day04标题 -->
     <!-- day04字符串 -->
