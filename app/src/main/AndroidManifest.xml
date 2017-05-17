@@ -9,6 +9,8 @@
     <!-- 读写SD卡的权限 -->
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:name=".app.App"
@@ -61,7 +63,16 @@
         <activity android:name=".activity.day03.junit.JunitActivity" />
         <activity android:name=".activity.day03.sqlite.SqliteActivity" />
         <activity android:name=".activity.day03.listview.ListViewActivity" />
-        <activity android:name=".activity.day03.dialog.DialogActivity"></activity>
+        <activity android:name=".activity.day03.dialog.DialogActivity" />
+        <activity android:name=".activity.day04.imageviewer.ImageViewerActivity" />
+        <activity android:name=".activity.day04.htmlviewer.HTMLViewerActivity" />
+        <activity android:name=".activity.day04.simplenewsclient.SimpleNewsClientActivity" />
+        <activity android:name=".activity.day04.getandpost.GETAndPOSTActivity" />
+        <activity android:name=".activity.day04.imageviewer.myimageviewer.MyImageViewerActivity" />
+        <activity android:name=".activity.day04.imageviewer.smartimageview.SmartImageViewActivity" />
+        <activity android:name=".activity.day04.imageviewer.picasso.PicassoActivity" />
+        <activity android:name=".activity.day04.imageviewer.glide.GlideActivity" />
+        <activity android:name=".activity.day04.imageviewer.fresco.FrescoActivity"></activity>
     </application>
 
 </manifest>

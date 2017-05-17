@@ -163,11 +163,32 @@
         <item>王五</item>
     </array>
 
-
     <!-- day04内容列表 -->
+    <array name="Day04">
+        <item>ImageViewer</item>
+        <item>HTMLViewer</item>
+        <item>SimpleNewsClient</item>
+        <item>GETAndPOST</item>
+    </array>
     <!-- day04标题 -->
+    <string name="day04_title1">ImageViewer</string>
+    <string name="day04_title2">HTMLViewer</string>
+    <string name="day04_title3">SimpleNewsClient</string>
+    <string name="day04_title4">GETAndPOST</string>
     <!-- day04字符串 -->
-    <array name="Day04"></array>
+    <string name="day04_values1">MyImageViewer</string>
+    <string name="day04_values2">SmartImageView</string>
+    <string name="day04_values3">Picasso</string>
+    <string name="day04_values4">Glide</string>
+    <string name="day04_values5">Fresco</string>
+    <string name="day04_values6">http://img.mmjpg.com/2017/982/39.jpg</string>
+    <string name="day04_values7">查看</string>
+    <string name="day04_values8">https://www.baidu.com/</string>
+    <string name="day04_values9">武汉</string>
+    <string name="day04_values10">GET</string>
+    <string name="day04_values11">POST</string>
+
+
     <!-- day05内容列表 -->
     <!-- day05标题 -->
     <!-- day05字符串 -->

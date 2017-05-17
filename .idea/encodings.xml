@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/02_logcat/src/com/itheima/logcat/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/03_在内部存储中读写文件/src/com/itheima/rwinrom/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/06_获取sd卡剩余容量/src/com/itheima/getsdavail/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/07_文件访问权限/src/com/itheima/permission/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/10_生成xml文件/src/com/itheima/createxml/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/11_Xml序列化器/src/com/itheima/xmlserializer/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/12_pull解析/src/com/itheima/pullparser/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/Preference/src/com/itheima/preference/MainActivity.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zhaoliang.com.hmandroid.activity.day04.imageviewer.ImageViewerActivity">
+
+    <Button
+        android:onClick="click"
+        android:id="@+id/btn_imageview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day04_values1" />
+
+    <Button
+        android:onClick="click"
+        android:id="@+id/btn_imageview2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day04_values2" />
+
+    <Button
+        android:onClick="click"
+        android:id="@+id/btn_imageview3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day04_values3" />
+
+    <Button
+        android:onClick="click"
+        android:id="@+id/btn_imageview4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day04_values4" />
+
+    <Button
+        android:onClick="click"
+        android:id="@+id/btn_imageview5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/day04_values5" />
+</LinearLayout>
