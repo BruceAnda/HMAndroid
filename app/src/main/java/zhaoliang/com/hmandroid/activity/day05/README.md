@@ -5,5 +5,6 @@
 
 ### 内容
 | 内容 | 详细内容 | 完成情况 |
+|-----|-----|-----|
 | HttpClientAndAsyncHttpClient | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day05/httpclientandasynchttpclient) | 已完成 |
 | Download | [详细内容](https://github.com/BruceAnda/HMAndroid/tree/master/app/src/main/java/zhaoliang/com/hmandroid/activity/day05/download) | 已完成 |
