@@ -9,6 +9,15 @@
     <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/11_Xml序列化器/src/com/itheima/xmlserializer/MainActivity.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/12_pull解析/src/com/itheima/pullparser/MainActivity.java" charset="GBK" />
     <file url="file://$USER_HOME$/Desktop/day26_Android应用开发-数据存储和界面展现/resouces/code/Preference/src/com/itheima/preference/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/01_单元测试框架/src/com/itheima/junit/test/TestCase.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/02_SQLite数据库/src/com/itheima/sqlitedatabase/MyOpenHelper.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/02_SQLite数据库/src/com/itheima/sqlitedatabase/test/TestCase.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/03_把数据显示至屏幕/src/com/itheima/showdata/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/03_把数据显示至屏幕/src/com/itheima/showdata/MyOpenHelper.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/04_使用ListView把数据显示至屏幕/src/com/itheima/showdata/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/05_ArrayAdapter&amp;SimpleAdapter/src/com/itheima/arraysimple/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day27_Android应用开发-数据存储和界面展现/resouces/code/06_对话框/src/com/itheima/dialog/MainActivity.java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/day29_Android应用开发-网络编程/resouces/code/04_手机版多线程断点续传/src/com/itheima/mobilemultidownload/MainActivity.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

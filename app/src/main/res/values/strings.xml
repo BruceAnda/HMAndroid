@@ -188,11 +188,24 @@
     <string name="day04_values10">GET</string>
     <string name="day04_values11">POST</string>
 
-
     <!-- day05内容列表 -->
+    <array name="Day05">
+        <item>HTTPClientAndAsyncHTTPClinet</item>
+        <item>Download</item>
+    </array>
     <!-- day05标题 -->
+    <string name="day05_title1">HTTPClientAndAsyncHTTPClinet</string>
+    <string name="day05_title2">Download</string>
     <!-- day05字符串 -->
-    <array name="Day05"></array>
+    <string name="day05_values1">HttpClient</string>
+    <string name="day05_values2">AsyncHttpClient</string>
+    <string name="day05_values3">MutipleThreadDownload</string>
+    <string name="day05_values4">Downloader</string>
+    <string name="day05_values5">OpenDownloader</string>
+    <string name="day05_values6">http://gdown.baidu.com/data/wisegame/0852f6d39ee2e213/QQ_676.apk</string>
+    <string name="day05_values7">下载</string>
+
+
     <!-- day06内容列表 -->
     <!-- day06标题 -->
     <!-- day06字符串 -->

@@ -72,7 +72,14 @@
         <activity android:name=".activity.day04.imageviewer.smartimageview.SmartImageViewActivity" />
         <activity android:name=".activity.day04.imageviewer.picasso.PicassoActivity" />
         <activity android:name=".activity.day04.imageviewer.glide.GlideActivity" />
-        <activity android:name=".activity.day04.imageviewer.fresco.FrescoActivity"></activity>
+        <activity android:name=".activity.day04.imageviewer.fresco.FrescoActivity" />
+        <activity android:name=".activity.day05.httpclientandasynchttpclient.HttpClientAndAsyncHttpClientActivity" />
+        <activity android:name=".activity.day05.download.DownloadActivity" />
+        <activity android:name=".activity.day05.httpclientandasynchttpclient.httpclient.HttpClientActivity" />
+        <activity android:name=".activity.day05.httpclientandasynchttpclient.asnychttpclient.AsyncHttpClientActivity" />
+        <activity android:name=".activity.day05.download.mutiplethreaddownload.MutipleThreadDownloadActivity" />
+        <activity android:name=".activity.day05.download.downloader.DownloaderActivity" />
+        <activity android:name=".activity.day05.download.opendownloader.OpenDownloaderActivity"></activity>
     </application>
 
 </manifest>

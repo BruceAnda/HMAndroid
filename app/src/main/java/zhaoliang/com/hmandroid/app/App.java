@@ -3,6 +3,7 @@ package zhaoliang.com.hmandroid.app;
 import android.app.Application;
 
 import com.facebook.drawee.backends.pipeline.Fresco;
+import com.liulishuo.filedownloader.FileDownloader;
 
 /**
  * 整个应用的Application
@@ -15,5 +16,6 @@ public class App extends Application {
     public void onCreate() {
         super.onCreate();
         Fresco.initialize(this);
+        FileDownloader.init(this);
     }
 }

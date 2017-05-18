@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zhaoliang.com.hmandroid.activity.day05.httpclientandasynchttpclient.HttpClientAndAsyncHttpClientActivity">
+
+    <Button
+        android:id="@+id/btn_httpclient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click"
+        android:text="@string/day05_values1" />
+
+    <Button
+        android:id="@+id/btn_asynchttpclient"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="click"
+        android:text="@string/day05_values2" />
+</LinearLayout>
