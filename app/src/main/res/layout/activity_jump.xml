@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="zhaoliang.com.hmandroid.activity.day06.activityjump.ActivityJumpActivity">
+
+    <Button
+        android:id="@+id/btn_jump"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values2" />
+
+    <Button
+        android:id="@+id/btn_jump2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values3" />
+
+    <Button
+        android:id="@+id/btn_jump3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values4" />
+
+    <Button
+        android:id="@+id/btn_jump4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values5" />
+
+    <Button
+        android:id="@+id/btn_jump5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values6" />
+
+    <Button
+        android:id="@+id/btn_jump6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values7" />
+
+    <Button
+        android:id="@+id/btn_jump7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="jump"
+        android:text="@string/day06_values8" />
+
+</LinearLayout>

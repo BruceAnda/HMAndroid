@@ -205,33 +205,136 @@
     <string name="day05_values6">http://gdown.baidu.com/data/wisegame/0852f6d39ee2e213/QQ_676.apk</string>
     <string name="day05_values7">下载</string>
 
-
     <!-- day06内容列表 -->
+    <array name="Day06">
+        <item>SecondActivity</item>
+        <item>ActivityJump</item>
+        <item>ActivityLifeCycle</item>
+        <item>ActivityLunchMode</item>
+        <item>ScreenOrientation</item>
+        <item>StartActivityForResult</item>
+    </array>
     <!-- day06标题 -->
+    <string name="day06_title1">SecondActivity</string>
+    <string name="day06_title2">ActivityJump</string>
+    <string name="day06_title3">ActivityLifeCycle</string>
+    <string name="day06_title4">ActivityLunchMode</string>
+    <string name="day06_title5">ScreenOrientation</string>
+    <string name="day06_title6">StartActivityForResult</string>
     <!-- day06字符串 -->
-    <array name="Day06"></array>
+    <string name="day06_values1">SecondActivity</string>
+    <string name="day06_values2">跳转到打电话的Activity</string>
+    <string name="day06_values3">显示跳转SecondActivity</string>
+    <string name="day06_values4">隐式跳转到SecondActivity</string>
+    <string name="day06_values5">显示跳转到拨号器</string>
+    <string name="day06_values6">隐式跳转到拨号器</string>
+    <string name="day06_values7">显示跳转到浏览器</string>
+    <string name="day06_values8">隐式跳转到浏览器</string>
+    <string name="day06_values9">ActivityLifeCycle</string>
+    <string name="day06_values10">Standard</string>
+    <string name="day06_values11">SingleTop</string>
+    <string name="day06_values12">SingleTask</string>
+    <string name="day06_values13">SingleInstance</string>
+
+
     <!-- day07内容列表 -->
+    <array name="Day07">
+        <item>IPDialer</item>
+        <item>SmsIntercepter</item>
+        <item>SDBroadcast</item>
+        <item>BootComplete</item>
+        <item>PackcageBroadcast</item>
+        <item>CustomBroadcast</item>
+        <item>OrderBroadcast</item>
+        <item>PhoneRecoder</item>
+    </array>
     <!-- day07标题 -->
+    <string name="day07_title1">IPDialer</string>
+    <string name="day07_title2">SmsIntercepter</string>
+    <string name="day07_title3">SDBroadcast</string>
+    <string name="day07_title4">BootComplete</string>
+    <string name="day07_title5">PackcageBroadcast</string>
+    <string name="day07_title6">CustomBroadcast</string>
+    <string name="day07_title7">OrderBroadcast</string>
+    <string name="day07_title8">PhoneRecoder</string>
     <!-- day07字符串 -->
-    <array name="Day07"></array>
+
+
     <!-- day08内容列表 -->
+    <array name="Day08">
+        <item>Service</item>
+        <item>FindLeader</item>
+        <item>MusicPlayer</item>
+        <item>CodeRegistBroadcast</item>
+        <item>StartRemoteService</item>
+        <item>PayDemo</item>
+        <item>StyleAndTheme</item>
+        <item>I18N</item>
+    </array>
     <!-- day08标题 -->
+    <string name="day08_title1">Service</string>
+    <string name="day08_title2">FindLeader</string>
+    <string name="day08_title3">MusicPlayer</string>
+    <string name="day08_title4">CodeRegistBroadcast</string>
+    <string name="day08_title5">StartRemoteService</string>
+    <string name="day08_title6">PayDemo</string>
+    <string name="day08_title7">StyleAndTheme</string>
+    <string name="day08_title8">I18N</string>
     <!-- day08字符串 -->
-    <array name="Day08"></array>
+
+
     <!-- day09内容列表 -->
+    <array name="Day09">
+        <item>LoadBigImage</item>
+        <item>CopyImage</item>
+        <item>ImageSpecialEffects</item>
+        <item>DrawingBorad</item>
+        <item>HeartBeat</item>
+        <item>MusicPlayer</item>
+        <item>VideoPlayer</item>
+        <item>Camera</item>
+    </array>
     <!-- day09标题 -->
+    <string name="day09_title1">LoadBigImage</string>
+    <string name="day09_title2">CopyImage</string>
+    <string name="day09_title3">ImageSpecialEffects</string>
+    <string name="day09_title4">DrawingBorad</string>
+    <string name="day09_title5">HeartBeat</string>
+    <string name="day09_title6">MusicPlayer</string>
+    <string name="day09_title7">VideoPlayer</string>
+    <string name="day09_title8">Camera</string>
     <!-- day09字符串 -->
-    <array name="Day09"></array>
+
     <!-- day10内容列表 -->
+    <array name="Day10">
+        <item>ContentProviderAndContentObserver</item>
+        <item>SmsContentProvider</item>
+        <item>ContactsContentProvider</item>
+    </array>
     <!-- day10标题 -->
+    <string name="day10_title1">ContentProviderAndContentObserver</string>
+    <string name="day10_title2">SmsContentProvider</string>
+    <string name="day10_title3">ContactsContentProvider</string>
     <!-- day10字符串 -->
-    <array name="Day10"></array>
+
     <!-- day11内容列表 -->
+    <array name="Day11">
+        <item>Fragment</item>
+        <item>Animator</item>
+    </array>
     <!-- day11标题 -->
+    <string name="day11_title1">Fragment</string>
+    <string name="day11_title2">Animator</string>
     <!-- day11字符串 -->
-    <array name="Day11"></array>
+
     <!-- day12内容列表 -->
+    <array name="Day12">
+        <item>summary</item>
+    </array>
     <!-- day12标题 -->
+    <string name="day12_title">summary</string>
+    <string name="day06_vlaues14">StartActivityForResult</string>
+    <string name="day06_values15">返回结果</string>
+
     <!-- day12字符串 -->
-    <array name="Day12"></array>
 </resources>

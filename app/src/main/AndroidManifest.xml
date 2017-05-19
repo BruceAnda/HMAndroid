@@ -56,7 +56,6 @@
         <activity android:name=".activity.day02.commonlayout.layout.FrameLayoutDemoActivity" />
         <activity android:name=".activity.day02.commonlayout.layout.TableLayoutDemoActivity" />
         <activity android:name=".activity.day02.commonlayout.layout.AbsolueLayoutDemoActivity" />
-        <activity android:name=".activity.day02.storageoption.storage.BaseStorageActivity" />
         <activity android:name=".activity.day02.storageoption.storage.InternalStorageActivity" />
         <activity android:name=".activity.day02.storageoption.storage.ExternalStorageActivity" />
         <activity android:name=".activity.day02.storageoption.storage.SharedPerferencesActivity" />
@@ -79,7 +78,35 @@
         <activity android:name=".activity.day05.httpclientandasynchttpclient.asnychttpclient.AsyncHttpClientActivity" />
         <activity android:name=".activity.day05.download.mutiplethreaddownload.MutipleThreadDownloadActivity" />
         <activity android:name=".activity.day05.download.downloader.DownloaderActivity" />
-        <activity android:name=".activity.day05.download.opendownloader.OpenDownloaderActivity"></activity>
+        <activity android:name=".activity.day05.download.opendownloader.OpenDownloaderActivity" />
+        <activity android:name=".activity.day06.secondactivity.SecondActivity" />
+        <activity android:name=".activity.day06.activityjump.ActivityJumpActivity" />
+        <activity android:name=".activity.day06.activitylifecycle.ActivityLifeCycleActivity" />
+        <activity android:name=".activity.day06.activitylunchmode.ActivityLunchModeActivity" />
+        <activity
+            android:name=".activity.day06.screenorientation.ScreenOrientationActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name=".activity.day06.startactivityforresult.StartActivityForResultActivity" />
+        <activity android:name=".activity.day06.secondactivity.activity.SecondActivityActivity">
+            <intent-filter>
+                <action android:name="day06.secondactivity" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.day06.activitylunchmode.activity.StandardActivity"
+            android:launchMode="standard" />
+        <activity
+            android:name=".activity.day06.activitylunchmode.activity.SingleTopActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name=".activity.day06.activitylunchmode.activity.SingleTaskActivity"
+            android:launchMode="singleTask" />
+        <activity
+            android:name=".activity.day06.activitylunchmode.activity.SingleInstanceActivity"
+            android:launchMode="singleInstance" />
+        <activity android:name=".activity.day06.startactivityforresult.activity.ResultActivity"></activity>
     </application>
 
 </manifest>
